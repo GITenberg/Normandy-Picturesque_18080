@@ -1,0 +1,26 @@
+_repo: Normandy-Picturesque_18080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackburn, Henry
+    birthdate: 1830
+    deathdate: 1897
+    gutenberg_agent_id: '7793'
+    url: http://www.gutenberg.org/2009/agents/7793
+description: Cover -- Contents.
+gutenberg_issued: '2006-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Normandy (France) -- Description and travel'
+- !lcc 'DC'
+title: Normandy Picturesque
+url: http://www.gutenberg.org/ebooks/18080
